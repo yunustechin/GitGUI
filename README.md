@@ -2,34 +2,21 @@
 GitGUI is a project designed to simplify the process of interacting with Git commands through a simple desktop interface. The goal is to make tasks like creating pull requests, merging branches, and other Git operations more accessible and user-friendly for developers, without needing to rely solely on command-line tools.
 
 ## Features
-Graphical Interface: Simplifies the process of interacting with Git repositories.
-
-Pull Requests: Easily create, view, and manage pull requests.
-
-Branch Management: Create, delete, and merge branches through an intuitive UI.
-
-Commit Management: Stage, commit, and push changes with ease.
-
-Conflict Resolution: Provides tools to assist in resolving merge conflicts visually.
-
-History Viewer: View commit history and diff of changes in a user-friendly manner.
-
-Customizable Settings: Configure Git user settings and repository preferences directly from the app.
+- **Graphical Interface**: Simplifies the process of interacting with Git repositories.
+- **Pull Requests**: Easily create, view, and manage pull requests.
+- **Branch Management**: Create, delete, and merge branches through an intuitive UI.
+- **Commit Management**: Stage, commit, and push changes with ease.
+- **Conflict Resolution**: Provides tools to assist in resolving merge conflicts visually.
+- **History Viewer**: View commit history and diff of changes in a user-friendly manner.
+- **Customizable Settings**: Configure Git user settings and repository preferences directly from the app.
 
 ## Technologies
 This part will be detailed, in the draft stage
-
-
-### Database
-`Python`: Backend and desktop application logic.
-
-`PyQt`: GUI library for desktop interface.
-
-`GitPython`: A library used to run Git commands with Python.
-
-`SQLite`: Application settings and data storage.
-
-`AWS`: Cloud support for transition to production environment.
+`Python` 
+`PyQt`
+`GitPython`
+`SQLite`
+`AWS`
 
 
 ## AWS
