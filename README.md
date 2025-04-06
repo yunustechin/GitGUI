@@ -12,6 +12,7 @@ GitGUI is a project designed to simplify the process of interacting with Git com
 
 ## Technologies
 This part will be detailed, in the draft stage
+
 `Python` 
 `PyQt`
 `GitPython`
