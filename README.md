@@ -3,11 +3,17 @@ GitGUI is a project designed to simplify the process of interacting with Git com
 
 ## Features
 Graphical Interface: Simplifies the process of interacting with Git repositories.
+
 Pull Requests: Easily create, view, and manage pull requests.
+
 Branch Management: Create, delete, and merge branches through an intuitive UI.
+
 Commit Management: Stage, commit, and push changes with ease.
+
 Conflict Resolution: Provides tools to assist in resolving merge conflicts visually.
+
 History Viewer: View commit history and diff of changes in a user-friendly manner.
+
 Customizable Settings: Configure Git user settings and repository preferences directly from the app.
 
 ## Technologies
